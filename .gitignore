@@ -1,0 +1,8 @@
+# Environment variables and secrets
+.env
+
+# Log files
+*.log
+
+# Temporary files
+uploads/
